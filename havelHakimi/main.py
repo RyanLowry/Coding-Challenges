@@ -1,5 +1,5 @@
 ## Performs the Havel-Hakimi algorithm
-## https://www.reddit.com/r/dailyprogrammer/comments/bazy5j/20190408_challenge_377_easy_axisaligned_crate/
+## https://www.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/
 
 def removeZerosFromArray(arr):
     return [item for item in arr if item != 0]
